@@ -97,13 +97,25 @@ Buscamos que el jugador cree su propia estrategia, pero siempre debe tener en cu
 
 ### **Screens**
 
-1. Title Screen
-    1. Options
-2. Level Select
-3. Game
-    1. Inventory
-    2. Assessment / Next Level
-4. End Credits
+1. Pantalla de Título:
+    1. Inicio: Notón para iniciar el juego.
+    2. Opciones: Configuración del juego y sonidos. Algunos ejemplos son ajustes de audio, o un tutorial para ver cómo son los botones del juego.
+    3. Créditos: Información sobre los créditos del juego.
+2. Progreso:
+    1. Muestra el avance del jugador en el juego, a medida de que avance y gana puntos.
+    2. Historial: Muestra un breve historial de las partidas jugadas, junto a sus resultados.
+3. Pantalla de Juego:
+    1. Partida: Botón para iniciar una partida.
+    2. Inventario: Botón para observar todas las cartas de tu inventario.
+    3. Tienda: Botón para entrar a la tienda y comprar sobres
+4. Pantalla Partida en Curso:
+    1. Enfrentamiento: acá se visualizan las cartas seleccionas que van a combatir.
+    2. Cantidad de energía: indica la cantidad de energía que tiene el jugador.
+    3. Selección de cartas: se podrá observar la formación del jugador para que seleccione la carta para el siguiente enfrentamiento.
+5. Pantalla Partida Finalizada:
+    1. Muestra el resultado del partido.
+    2. Muestra las recompensas obtenidas por la partida.
+    3. Botón para continuar a la pantalla de inicio.
 
 _(example)_
 
