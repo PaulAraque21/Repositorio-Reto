@@ -22,10 +22,8 @@ Paul Araque Fernández - A01027626
 2. [Game Design](#game-design)
     1. [Summary](#summary)
     2. [Idea Pitch](#idea-pitch)
-    2. [Gameplay](#gameplay)
-    3. [Mindset](#mindset)
-    4. [Sketches](#sketches)
-    5. [References](#references)
+    3. [Gameplay](#gameplay)
+    4. [Mindset](#mindset)
 3. [Technical](#technical)
     1. [Screens](#screens)
     2. [Controls](#controls)
@@ -44,6 +42,8 @@ Paul Araque Fernández - A01027626
 6. [Graphics](#graphics)
     1. [Style Attributes](#style-attributes)
     2. [Graphics Needed](#graphics-needed)
+    3. [Sketches](#sketches)
+    4. [References](#references)
 7. [Sounds/Music](#soundsmusic)
     1. [Style Attributes](#style-attributes-1)
     2. [Sounds Needed](#sounds-needed)
@@ -94,38 +94,6 @@ Es importante destacar, que cuando se une un usuario al juego, la primera vez qu
 ### **Mindset**
 
 Buscamos que el jugador cree su propia estrategia, pero siempre debe tener en cuenta que necesita marcar al menos 6 goles para ganar el partido. De esta manera, pueden desarrollar su estrategia para empezar el juego más tranquilo y tratando de utilizar sus cartas débiles contra las fuertes del contrincante, pero al final se tendría que apurar para utilizar sus mejores cartas, teniendo el resultado en su contra, para tratar de darle vuelta al marcador. De igual manera, queremos que se sientan un poco nerviosos, ya que si utilizó a su mejor carta, pero el contrincante le ganó de alguna manera, deberá pensar que jugará en el siguiente turno para tratar de ganar ese combate. Asimismo, los nervios les pueden llegar si es un partido importante y el jugador puede estar pensando si jugar más agresivo, calmado o seguir su propia estrategia que le ha funcionado. Finalmente, si el jugador ve que su estrategia no está funcionando, queremos que experimenten probando nuevas ideas y analizando cuál es el mejor momento para jugar cada una de sus cartas. 
-
-### **Sketches**
-
-Menú de inicio:
-
-![alt text](image-3.png)
-
-Plantilla o Deck:
-
-![alt text](image-6.png)
-
-Batalla en juego:
-
-![alt text](image-5.png)
-
-
-### **References**
-
-Algunos de los videojuegos de cartas que se usaron como referencia e insipiración, fueron los siguientes:
-
-Pokémon:
-
-![alt text](image-7.png)
-
-Clash Royale: 
-
-![alt text](image-9.png)
-
-Fantasy:
-
-![alt text](image-8.png)
-
 
 
 ## _Technical_
@@ -302,7 +270,36 @@ Well-designed feedback, both good (e.g. leveling up) and bad (e.g. being hit), a
     3. Gate
     4. Button (matching Weathered Stone Bricks)
 
-_(example)_
+### **Sketches**
+
+Menú de inicio:
+
+![alt text](image-3.png)
+
+Plantilla o Deck:
+
+![alt text](image-6.png)
+
+Batalla en juego:
+
+![alt text](image-5.png)
+
+
+### **References**
+
+Algunos de los videojuegos de cartas que se usaron como referencia e insipiración, fueron los siguientes:
+
+Pokémon:
+
+![alt text](image-7.png)
+
+Clash Royale: 
+
+![alt text](image-9.png)
+
+Fantasy:
+
+![alt text](image-8.png)
 
 
 ## _Sounds/Music_
