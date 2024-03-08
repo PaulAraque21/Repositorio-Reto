@@ -8,7 +8,7 @@
 
 Diego Ortega Fernández - 
 
-Valeria Tapia González - A01028038
+Valeria Tapia González - 
 
 
 Paul Araque Fernández - A01027626
