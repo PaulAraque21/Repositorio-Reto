@@ -276,15 +276,15 @@ Well-designed feedback, both good (e.g. leveling up) and bad (e.g. being hit), a
 
 Menú de inicio:
 
-![alt text](image-3.png)
+![alt text](InicioJuego.png)
 
 Plantilla o Deck:
 
-![alt text](image-6.png)
+![alt text](PlantillaJuego2.png)
 
 Batalla en juego:
 
-![alt text](image-5.png)
+![alt text](batallajuego.png)
 
 
 ### **References**
@@ -293,15 +293,15 @@ Algunos de los videojuegos de cartas que se usaron como referencia e insipiraci�
 
 Pokémon:
 
-![alt text](image-7.png)
+![alt text](Pokemon.png)
 
 Clash Royale: 
 
-![alt text](image-9.png)
+![alt text](clash.png)
 
 Fantasy:
 
-![alt text](image-8.png)
+![alt text](Fifa.png)
 
 
 ## _Sounds/Music_
