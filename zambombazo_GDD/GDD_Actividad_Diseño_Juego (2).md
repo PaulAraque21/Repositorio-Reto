@@ -150,14 +150,11 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
 ## _Level Design_
 
 ---
-
-_(Note : These sections can safely be skipped if they&#39;re not relevant, or you&#39;d rather go about it another way. For most games, at least one of them should be useful. But I&#39;ll understand if you don&#39;t want to use them. It&#39;ll only hurt my feelings a little bit.)_
-
 ### **Themes**
 
 1. Estadio
     1. Ambiente
-        1. Felicidad, Angustia, Emociones.
+        1. Felicidad, Angustia, Emoción.
     2. Objetos
         1. _Ambiente_
             1. Luces / Iluminación
@@ -166,14 +163,12 @@ _(Note : These sections can safely be skipped if they&#39;re not relevant, or yo
             4. Porterías
             5. Grada / Espectadores
         3. _Interactivos_
-            1. Wolves
-            2. Goblins
-            3. Rocks
-2. Castle
-    1. Mood
-        1. Dangerous, tense, active
-    2. Objects
-        1. _Ambient_
+            1. Cartas en juego
+2. Inicio
+    1. Ambiente
+        1. Emoción, Satisfacción, Entusiasmado.
+    2. Objetos
+        1. _Ambiente_
             1. Rodents
             2. Torches
             3. Suits of armor
