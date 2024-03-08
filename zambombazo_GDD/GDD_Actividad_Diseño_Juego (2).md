@@ -6,9 +6,9 @@
 
 ##### **Copyright notice / author information / boring legal stuff nobody likes**
 
-Diego Ortega Fernández - 
+Diego Ortega Fernández - A01028535
 
-Valeria Tapia González - 
+Valeria Tapia González - A01028038
 
 
 Paul Araque Fernández - A01027626
