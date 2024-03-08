@@ -207,36 +207,36 @@ _(example)_
 
 
 
-clase Carta
-nombre
-habilidades (defensa, ataque, medio campo)
-nivel de energía
+1. clase Carta
+	nombre
+	habilidades (defensa, ataque, medio campo)
+	nivel de energía
 
-clase Jugador (derivada de carta)
-energía
-mazo
-	métodos:
-escogerCarta
-escogerSkill
-calcularPuntuacion
-updateEnergia
+2. clase Jugador (derivada de carta)
+	energía
+	mazo
+métodos:
+	escogerCarta
+	escogerSkill
+	calcularPuntuacion
+	updateEnergia
 
-clase juego:
-jugadores
-ronda
-goles
-	métodos:
-startGame
-turno
-checarGanador
-endGame
-clase paqueteCartas:
-nivelPromedioEnergia
-cartas
-	métodos
+3. clase juego:
+	jugadores
+	ronda
+	goles
+métodos:
+	startGame
+	turno
+	checarGanador
+	endGame
+4. clase paqueteCartas:
+	nivelPromedioEnergia
+	cartas
+métodos
 generarPaquete 
 	
-clase main
+5. clase main
 
 
 ## _Graphics_
