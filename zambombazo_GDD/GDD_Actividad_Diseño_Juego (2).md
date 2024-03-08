@@ -117,8 +117,6 @@ Buscamos que el jugador cree su propia estrategia, pero siempre debe tener en cu
     2. Muestra las recompensas obtenidas por la partida.
     3. Botón para continuar a la pantalla de inicio.
 
-_(example)_
-
 ### **Controls**
 
 Principalmente, el usuario interactuará con una interfaz gráfica que le servirá para observar su colección de cartas y poder elegir la formación y jugadores que disputarán su partido. De igual manera, dentro de la partida, deberán seleccionar a sus jugadores para el combate, al igual que la estadística a utilizar por medio de clics en la pantalla. Por esta razón, y debido a que la mecánica del juego es sencilla, no existirá una gran variedas de controles para que cada jugador personalice sus controles, sino que sólo podrán utilizar los predeterminados. 
@@ -181,15 +179,19 @@ _(example)_
 
 ### **Game Flow**
 
-1. Player starts in forest
-2. Pond to the left, must move right
-3. To the right is a hill, player jumps to traverse it (&quot;jump&quot; taught)
-4. Player encounters castle - door&#39;s shut and locked
-5. There&#39;s a window within jump height, and a rock on the ground
-6. Player picks up rock and throws at glass (&quot;throw&quot; taught)
-7. … etc.
-
-_(example)_
+1. EL jugador le da al botón para comenzar una partida.
+2. Aparece una formación predetermianda, pero sin ningún jugador.
+3. EL usuario puede elegir cambiar de formación y agregar a los jugadores a sus posiciones. 
+4. Inicia la partida. Cada jugador tiene 10 de energía y una formación de 7 jugadores seleccionados previamente. 
+5. Primer turno. El primer jugador en elegir es seleccionado de forma aleatoria. SUpongamos que es el jugador 1 para este flujo de juego. Jugador 1 selecciona a uno de sus jugadores, junto a una de sus estadísticas.
+6. La CPU o jugador 2, selecciona a uno de sus jugadores, junto a la estadística específica que tiene que utilizar, debido al ataque del jugador 1. 
+7. El que tenga mejor estadística, gana el combate y marca un gol. En caso de empate, se suman todas las estadísticas para ver quién gana. Si llegan a empatar, ninguno de los jugadores metió gol. 
+8. Segundo turno. Se le resta la cantidad de energía utilizada a los jugadores y se les suma 2 por el nuevo turno. La CPU elige a un jugador, junto a una de sus estadísticas y el jugador 1 debe seleccionar a uno de sus jugadores para combatir. 
+9. Los turnos continúan con cada jugador seleccionado, dependiendo de la cantidad de energía y estadísticas elegidas.
+10. El partido termina cuando se utilicen a los 7 jugadores o cuando un jugador marque 4 goles.
+11.En caso de que un jugador marque 4 goles antes de utilizar a los 7 jugadores, tiene la opción de seguir jugando o terminar la partida.
+12. Cuando se termina la partida, aparece una pantalla con las recompensas, el resultado final, el nivel de progreso y botón para avanzar.
+13. Aparece la pantalla de inicio.
 
 ## _Development_
 
