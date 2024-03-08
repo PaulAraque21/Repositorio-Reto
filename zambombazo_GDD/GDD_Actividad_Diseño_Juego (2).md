@@ -146,7 +146,16 @@ _(example)_
 
 ### **Controls**
 
-How will the player interact with the game? Will they be able to choose the controls? What kind of in-game events are they going to be able to trigger, and how? (e.g. pressing buttons, opening doors, etc.)
+Principalmente, el usuario interactuará con una interfaz gráfica que le servirá para observar su colección de cartas y poder elegir la formación y jugadores que disputarán su partido. De igual manera, dentro de la partida, deberán seleccionar a sus jugadores para el combate, al igual que la estadística a utilizar por medio de clics en la pantalla. Por esta razón, y debido a que la mecánica del juego es sencilla, no existirá una gran variedas de controles para que cada jugador personalice sus controles, sino que sólo podrán utilizar los predeterminados. 
+
+Algunos eventos dentro del juego que podrán ocurrir son:
+- Creación de formación: antes de cada partida, el jugador tendrá una pantalla con una formación predeterminada, pero sin ninguna carta. En esta, el usuario podrá elegir si desea cambiar de formación y, posteriormente, elegir que jugadores de su inventario desea utilizar en cada una de las posiciones.
+- Enfrentamiento de Cartas: esto ocurrirá cuando un jugador seleccione una carta de su formación, junto a su estadística a utilizar, para enfrentarla contra un jugador del oponente.
+- Gestión de Energía: como cada carta cuesta energía entre 1 y 8, y cada jugador empezará con 10 de energía y se le regenerará 2 por cada turno, los usuarios deberán gestionar su cantidad de energía para cada enfrentamiento, eligiendo cuando utilizar una carta que cuesta mucha energía y cuando no. Esto se logrará a través de la interfaz gráfica, ya que el usuario podrá observar cuánta energía cuesta cada carta, al igual que su energía actual dentro de la partida.
+- Ganar Monedas: por cada partida que el usuario juegue, el jugador recibirá moenedas como recompensa. Estas recompensas variarán dependiendo si perdiste la partida, empataste o ganaste y por cuántos goles ganaste.
+- Comprar sobres: las monedas ganadas se podrán utilizar para comprar sobres en la tienda del juego. Existirán 3 distintos sobres en la tienda y cada usuario deberá elegir si ahorrar para los mejores sobres o ir por los más baratos.
+
+Estos eventos se desencadenarán, gracias a la interfaz del juego, al presionar botones y cartas, las cuáles serán bastantes intuitivas para que los jugadores puedan aprender rápidamente. 
 
 ### **Mechanics**
 
