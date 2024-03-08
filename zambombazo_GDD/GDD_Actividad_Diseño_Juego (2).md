@@ -160,15 +160,17 @@ _(Note : These sections can safely be skipped if they&#39;re not relevant, or yo
 
 ### **Themes**
 
-1. Forest
-    1. Mood
-        1. Dark, calm, foreboding
-    2. Objects
-        1. _Ambient_
-            1. Fireflies
-            2. Beams of moonlight
-            3. Tall grass
-        2. _Interactive_
+1. Estadio
+    1. Ambiente
+        1. Felicidad, Angustia, Emociones.
+    2. Objetos
+        1. _Ambiente_
+            1. Luces / Iluminación
+            2. Fuegos Artificiales
+            3. Pasto cortado / Campo de Fútbol
+            4. Porterías
+            5. Grada / Espectadores
+        3. _Interactivos_
             1. Wolves
             2. Goblins
             3. Rocks
