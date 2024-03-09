@@ -352,9 +352,9 @@ sonidos claros y distintos para alertar a los jugadores sobre nuevos mensajes, l
 
 
 
-1. hacer el excel con todas las cartas
-3. desarrollar clases bases
-4. desarollar clases derivdas
-5. crear base de datos
-6. desarrollar interfaz unity
-7. hacer pruebas
+1. hacer el excel con todas las cartas - semana 5
+3. desarrollar clases bases- semana 6
+4. crear base de datos -semana 6
+5. desarollar clases derivdas- semana 7,8,9
+6. desarrollar interfaz unity semana 7,8,9
+7. hacer pruebas- semana 9
