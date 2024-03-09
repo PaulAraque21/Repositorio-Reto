@@ -30,8 +30,6 @@ Paul Araque Fernández - A01027626
     1. [Themes](#themes)
     2. [Game Flow](#game-flow)
 5. [Development](#development)
-    1. [Abstract Classes](#abstract-classes--components)
-    2. [Derived Classes](#derived-classes--component-compositions)
 6. [Graphics](#graphics)
     1. [Style Attributes](#style-attributes)
     2. [Graphics Needed](#graphics-needed)
