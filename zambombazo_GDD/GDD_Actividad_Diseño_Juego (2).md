@@ -190,35 +190,55 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
 ---
 
 1. clase Carta
-	nombre
-	habilidades (defensa, ataque, medio campo)
-	nivel de energía
+ - nombre
+ - posición
+ -habilidades (defensa, ataque, medio campo)
+ -nivel de energía
 
-2. clase Jugador (derivada de carta)
-	energía
-	mazo
-métodos:
-	escogerCarta
-	escogerSkill
-	calcularPuntuacion
-	updateEnergia
+2. clase Formación
+tipo de Formación
+posiciones
+		
+clase Usuario 
+energía
+mazo
+formación
+monedas
+resultadosPartidos
+	métodos:
+escogerCarta
+escogerAlineación
+escogerSkill
+calcularPuntuacion
+updateEnergia
 
-3. clase juego:
-	jugadores
-	ronda
-	goles
-métodos:
-	startGame
-	turno
-	checarGanador
-	endGame
-4. clase paqueteCartas:
-	nivelPromedioEnergia
-	cartas
-métodos
+clase GameController
+jugadores
+ronda
+goles
+	métodos:
+startGame
+turno
+determinarGanador
+endGame
+entregarMonedas
+regularEnergía
+clase paqueteCartaCompras:
+nivelPromedioEnergia
+cartas
+	métodos
 generarPaquete 
 	
-5. clase main
+clase Tienda
+paquetesDisponibles
+inventorioUsuario
+métodos 
+comprarPaquete
+verPaquetesDisponibles
+actualizarInventorio
+abrirPaquetes
+mostrarEstadoDeCuenta
+
 
 
 ## _Graphics_
