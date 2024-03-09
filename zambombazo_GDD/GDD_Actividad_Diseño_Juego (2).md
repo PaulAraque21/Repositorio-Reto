@@ -337,25 +337,13 @@ sonidos claros y distintos para alertar a los jugadores sobre nuevos mensajes, l
  - Atmósfera de estadio: sonidos de fondo de multitudes vitoreando y silbidos de árbitros para crear un ambiente realista de estadio de fútbol.
  - Reacciones del público: reacciones variadas del público para adaptarse a diferentes situaciones de juego
 
-5. 
- 
-6. Feedback
-    1. Relieved &quot;Ahhhh!&quot; (health)
-    2. Shocked &quot;Ooomph!&quot; (attacked)
-    3. Happy chime (extra life)
-    4. Sad chime (died)
 
-_(example)_
 
 ### **Music Needed**
+1. canciones optimistas y energéticas:
+2. Himnos deportivos y cantos de estadio:
 
-1. Slow-paced, nerve-racking &quot;forest&quot; track
-2. Exciting &quot;castle&quot; track
-3. Creepy, slow &quot;dungeon&quot; track
-4. Happy ending credits track
-5. Rick Astley&#39;s hit #1 single &quot;Never Gonna Give You Up&quot;
 
-_(example)_
 
 
 ## _Schedule_
