@@ -320,23 +320,28 @@ Fantasy:
 
 ### **Style Attributes**
 
-Again, consistency is key. Define that consistency here. What kind of instruments do you want to use in your music? Any particular tempo, key? Influences, genre? Mood?
-
-Stylistically, what kind of sound effects are you looking for? Do you want to exaggerate actions with lengthy, cartoony sounds (e.g. mario&#39;s jump), or use just enough to let the player know something happened (e.g. mega man&#39;s landing)? Going for realism? You can use the music style as a bit of a reference too.
-
- Remember, auditory feedback should stand out from the music and other sound effects so the player hears it well. Volume, panning, and frequency/pitch are all important aspects to consider in both music _and_ sounds - so plan accordingly!
-
 ### **Sounds Needed**
 
-1. Effects
-    1. Soft Footsteps (dirt floor)
-    2. Sharper Footsteps (stone floor)
-    3. Soft Landing (low vertical velocity)
-    4. Hard Landing (high vertical velocity)
-    5. Glass Breaking
-    6. Chest Opening
-    7. Door Opening
-2. Feedback
+1. Sonidos Menu
+clics suaves y satisfactorios cuando los jugadores navegan por los menús o seleccionan opciones
+2. sonidos Notificaciones
+sonidos claros y distintos para alertar a los jugadores sobre nuevos mensajes, logros o eventos.
+
+3. sonidos Partido
+ - Barajado de cartas: sonidos de crujidos y volteos cuando los jugadores exploran sus colecciones de cartas o seleccionan cartas para un juego.
+ - Celebraciones de goles: aplausos y cantos de la afición cuando se marca un gol
+ - Uso de cartas: efectos de sonido para acompañar la selección y colocación de cartas durante el juego
+ - Cambios en el nivel de energía: señales sonoras para indicar cambios en los niveles de energía o la gestión de recursos
+ - Transiciones de turno: señales de audio para señalar el inicio y el final del turno de cada jugador, manteniendo el ritmo y el ritmo durante el juego.
+   
+4. Sonidos ambientales:
+
+ - Atmósfera de estadio: sonidos de fondo de multitudes vitoreando y silbidos de árbitros para crear un ambiente realista de estadio de fútbol.
+ - Reacciones del público: reacciones variadas del público para adaptarse a diferentes situaciones de juego
+
+5. 
+ 
+6. Feedback
     1. Relieved &quot;Ahhhh!&quot; (health)
     2. Shocked &quot;Ooomph!&quot; (attacked)
     3. Happy chime (extra life)
