@@ -205,39 +205,40 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
  - formación
  - monedas
  - resultadosPartidos
-	métodos:
+ > métodos:
  - escogerCarta
  - escogerAlineación
  - escogerSkill
  - calcularPuntuacion
  - updateEnergia
 
-clase GameController
-jugadores
-ronda
-goles
-	métodos:
-startGame
-turno
-determinarGanador
-endGame
-entregarMonedas
-regularEnergía
-clase paqueteCartaCompras:
-nivelPromedioEnergia
-cartas
-	métodos
+4. clase GameController
+ - jugadores
+ - ronda
+ - goles
+ > métodos:
+ - startGame
+ - turno
+ - determinarGanador
+ - endGame
+ - entregarMonedas
+ - regularEnergía
+ - 
+5. clase paqueteCartaCompras:
+ - nivelPromedioEnergia
+ - cartas
+ > métodos
 generarPaquete 
 	
-clase Tienda
-paquetesDisponibles
-inventorioUsuario
-métodos 
-comprarPaquete
-verPaquetesDisponibles
-actualizarInventorio
-abrirPaquetes
-mostrarEstadoDeCuenta
+6. clase Tienda
+ - paquetesDisponibles
+ - inventorioUsuario
+ > métodos 
+ - comprarPaquete
+ - verPaquetesDisponibles
+ - actualizarInventorio
+ - abrirPaquetes
+ - mostrarEstadoDeCuenta
 
 
 
