@@ -192,25 +192,25 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
 1. clase Carta
  - nombre
  - posición
- -habilidades (defensa, ataque, medio campo)
- -nivel de energía
+ - habilidades (defensa, ataque, medio campo)
+ - nivel de energía
 
 2. clase Formación
-tipo de Formación
-posiciones
+ - tipo de Formación
+ - posiciones
 		
-clase Usuario 
-energía
-mazo
-formación
-monedas
-resultadosPartidos
+3. clase Usuario 
+ - energía
+ - mazo
+ - formación
+ - monedas
+ - resultadosPartidos
 	métodos:
-escogerCarta
-escogerAlineación
-escogerSkill
-calcularPuntuacion
-updateEnergia
+ - escogerCarta
+ - escogerAlineación
+ - escogerSkill
+ - calcularPuntuacion
+ - updateEnergia
 
 clase GameController
 jugadores
