@@ -4,12 +4,10 @@
 
 ---
 
-##### **Copyright notice / author information / boring legal stuff nobody likes**
 
 Diego Ortega Fernández - A01028535
 
 Valeria Tapia González - A01028038
-
 
 Paul Araque Fernández - A01027626
 
@@ -228,7 +226,7 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
  - nivelPromedioEnergia
  - cartas
  > métodos
-generarPaquete 
+ - generarPaquete 
 	
 6. clase Tienda
  - paquetesDisponibles
