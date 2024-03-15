@@ -356,11 +356,14 @@ sonidos claros y distintos para alertar a los jugadores sobre nuevos mensajes, l
 
 ---
 
+semana tec: 
+hacer base de datos, crear api, empezar interfaz de unity, hacer plantilla de cartas
 
+semana santa y semana 6:
+seguir con interfaz de untiy, empezar a desarrollar los algoritmos de c#
 
-1. hacer el excel con todas las cartas - semana 5
-3. desarrollar clases bases- semana 6
-4. crear base de datos -semana 6
-5. desarollar clases derivdas- semana 7,8,9
-6. desarrollar interfaz unity semana 7,8,9
-7. hacer pruebas- semana 9
+semana 7 y 8:
+pulir base de datos, api e implementar requerimientos no funcionales
+
+semana 9: 
+afinar detalles y hacer pruebas
