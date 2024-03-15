@@ -246,35 +246,35 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
 
 ### **Atributos de Estilo**
 
-What kinds of colors will you be using? Do you have a limited palette to work with? A post-processed HSV map/image? Consistency is key for immersion.
+Para este juego, utilizaremos una paleta de colores muy alegre y llamativa, ya que nuestro objetivo con estos colores es reflejar la energía, emoción y felicidad que este deporte genera en las personas. Los colores principales que estaremos utilizando en este videojuego será el azul, verde, rojo y amarillo.
 
-What kind of graphic style are you going for? Cartoony? Pixel-y? Cute? How, specifically? Solid, thick outlines with flat hues? Non-black outlines with limited tints/shades? Emphasize smooth curvatures over sharp angles? Describe a set of general rules depicting your style here.
+En las cartas, más especificamente en los jugadores, estaremos priorizando un estilo gráfico más lo más realista posible, esto para que los jugadores en las cartas se vean lo más parecido posible a los jugadores reales y nuestros usuarios puedan reconocer a los jugadores lo más rápido posible, generando indirectamente una conexión más fuerte con el juego. Para el contorno de las cartas utilizaremos colores planos y diferentes texturas para mantener un estilo claro y priorizar que las cartas sean fáciles de reconocer y distinguir entre sí.
 
-Well-designed feedback, both good (e.g. leveling up) and bad (e.g. being hit), are great for teaching the player how to play through trial and error, instead of scripting a lengthy tutorial. What kind of visual feedback are you going to use to let the player know they&#39;re interacting with something? That they \*can\* interact with something?
+Para hacer una retroalimentación visual para nuestros usuarios dentro y fuera de una partida, utilizaremos distintos métodos, como lo es resaltar el elemento que se está seleccionado, ya sea cambiando de color los botones, una animación en las cartas o algún brillo que se genere después de hacer alguna jugada. En el caso de los goles, se podría utilizar una animación de confetti, fuegos artificiales, luces, gritos de la grada y celebraciones de los aficionados.
 
 ### **Gráficas Necesarias**
 
 1. Equipos / Cartas
     1. Real Madrid
-        1. Atacantes (ataque, defensa, medio campo)
-        2. Defensores (ataque, defensa, medio campo)
-        3. Medio Campo (ataque, defensa, medio campo)
-        4. Portero (ataque, defensa, medio campo)
+        1. Carta Atacantes (ataque, defensa, medio campo)
+        2. Carta Defensores (ataque, defensa, medio campo)
+        3. Carta Medio Campo (ataque, defensa, medio campo)
+        4. Carta Portero (ataque, defensa, medio campo)
     2. Barcelona
-       	1. Atacantes (ataque, defensa, medio campo)
-        2. Defensores (ataque, defensa, medio campo)
-        3. Medio Campo (ataque, defensa, medio campo)
-        4. Portero (ataque, defensa, medio campo)
+       	1. Carta Atacantes (ataque, defensa, medio campo)
+        2. Carta Defensores (ataque, defensa, medio campo)
+        3. Carta Medio Campo (ataque, defensa, medio campo)
+        4. Carta Portero (ataque, defensa, medio campo)
     4. Atlético de Madrid
-       	1. Atacantes (ataque, defensa, medio campo)
-        2. Defensores (ataque, defensa, medio campo)
-        3. Medio Campo (ataque, defensa, medio campo)
-        4. Portero (ataque, defensa, medio campo)
+       	1. Carta Atacantes (ataque, defensa, medio campo)
+        2. Carta Defensores (ataque, defensa, medio campo)
+        3. Carta Medio Campo (ataque, defensa, medio campo)
+        4. Carta Portero (ataque, defensa, medio campo)
     6. Sevilla
-	1. Atacantes (ataque, defensa, medio campo)
-        2. Defensores (ataque, defensa, medio campo)
-        3. Medio Campo (ataque, defensa, medio campo)
-        4. Portero (ataque, defensa, medio campo)
+	1. Carta Atacantes (ataque, defensa, medio campo)
+        2. Carta Defensores (ataque, defensa, medio campo)
+        3. Carta Medio Campo (ataque, defensa, medio campo)
+        4. Carta Portero (ataque, defensa, medio campo)
 2. Ambiente
     1. Cancha de fútbol
     2. Porterías
