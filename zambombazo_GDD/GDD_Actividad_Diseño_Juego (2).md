@@ -51,7 +51,7 @@ Te adentrarás en un juego estratégico de cartas basado en el deporte fútbol, 
 
 ### **Presentación de la Idea**
 
-En este juego de fútbol, cada jugador cuenta con 11 cartas previamente seleccionadas por él/ella. Cada carta tiene un valor de defensa, otro de mediocampo y otro de ataque. El primer turno siempre será aleatorio, lo que implica que un jugador elegirá su primera carta, junto a valor de defensa, ataque o mediocampo, y luego el segundo jugador, teniendo en cuenta el valor que eligió el contrincante, deberá elegir una de sus cartas para tratar de ganar el combate. Si el primer jugador eligió el valor de defensa, el segundo jugador deberá elegir el valor de ataque para tratar de anotar un gol, y si el primero eligió mediocampo, el segundo jugador deberá contestar con un valor de mediocampo. Adicionalmente, cada jugador empezará con 10 de energía y cada carta tendrá un coste de entre 1 a 8 de energía para utilizarla. Después de cada combate, se le sumará dos energías a cada jugador y podrán elegir las nuevas cartas a utilizar. Al cada jugador tener 11 cartas, el primero que anote 6 goles ganará la partida y solo existirá el empate en caso de que el marcador esté empatado y los valores totales de las últimas dos cartas es el mismo, aunque es un caso muy extraño de que ocurra. 
+En este juego de fútbol, cada jugador cuenta con 7 cartas previamente seleccionadas por él/ella. Cada carta tiene un valor de defensa, otro de mediocampo y otro de ataque. El primer turno siempre será aleatorio, lo que implica que un jugador elegirá su primera carta, junto a valor de defensa, ataque o mediocampo, y luego el segundo jugador, teniendo en cuenta el valor que eligió el contrincante, deberá elegir una de sus cartas para tratar de ganar el combate. Si el primer jugador eligió el valor de defensa, el segundo jugador deberá elegir el valor de ataque para tratar de anotar un gol, y si el primero eligió mediocampo, el segundo jugador deberá contestar con un valor de mediocampo. Adicionalmente, cada jugador empezará con 10 de energía y cada carta tendrá un coste de entre 1 a 8 de energía para utilizarla. Después de cada combate, se le sumará dos energías a cada jugador y podrán elegir las nuevas cartas a utilizar. Al cada jugador tener 7 cartas, el primero que anote 4 goles ganará la partida y solo existirá el empate en caso de que el marcador esté empatado y los valores totales de las últimas dos cartas es el mismo, aunque es un caso muy extraño de que ocurra. 
 Por cada partida, los jugadores recibirán una cantidad de monedas que va a variar dependiendo si ganaron, perdieron o empataron el partido. Con estas monedas, los jugadores podrán comprar sobres en una tienda para tratar de obtener mejores jugadores y así mejorar sus respectivos equipos. 
 
 Extra: Al principio de cada partida, cada jugador podrá seleccionar 1 de 10 cartas aleatorias que podrán utilizar en cualquier turno. Un ejemplo de esta carta puede ser el doble de energía, la cual se podría utilizar a partir de la segunda ronda y le multiplicará la energía por dos al jugador. Otra carta puede ser “robo de carta”, la cual se activaría cuando el otro jugador use su carta aleatoria y su contrincante le robe la carta para su uso. 
@@ -59,19 +59,19 @@ Extra: Al principio de cada partida, cada jugador podrá seleccionar 1 de 10 car
 
 ### **Cómo se Juega**
 
-El juego empieza al darle al participante 10 en nivel de energía y un sobre con 20 cartas aleatorias, este tiene que escoger solo 11 para la partida. Cada carta representa a un jugador profesional de fútbol que posee 3 habilidades: defensa, ataque y medio campo, y un nivel de energía del 1 al 8 (siendo 8 lo máximo). En el sobre inicial, 6 cartas serían de defensa, 6 medios, 6 delanteros y 2 porteros. 
+El juego empieza al darle al participante 10 en nivel de energía y un sobre con 15 cartas aleatorias, este tiene que escoger solo 7 para la partida. Cada carta representa a un jugador profesional de fútbol que posee 3 habilidades: defensa, ataque y medio campo, y un nivel de energía del 1 al 8 (siendo 8 lo máximo). En el sobre inicial, 5 cartas serían de defensa, 5 medios, 3 delanteros y 2 porteros. 
 
 Con base en su desempeño en la vida real, el jugador tendrá un puntaje acorde a las áreas. Por ejemplo, Cristiano Ronaldo, en ataque tendría 94 pts, en defensa 56 pts, en medio campo 73 pts, y su nivel de energía sería un 8, mientras que alguien como Álvaro Morata tendría 83 pts en ataque, en defensa 49 pts, en medio campo 67 pts y en nivel de energía 6.  
 Si es el turno del participante, éste podrá elegir su carta y con qué habilidad va a competir, es decir defensa, ataque o medio campo. Si no es su turno, el participante solo podrá elegir al jugador, mientras que la habilidad con la que competirá, será dependiendo de lo que haya escogido el otro participante. Hay 3 posibles combinaciones:
 
- Si el participante con el turno escoge jugar con defensa, el otro participante tendrá que jugar con ataque.
+Si el participante con el turno escoge jugar con defensa, el otro participante tendrá que jugar con ataque.
 Si el participante con el turno escoge ataque, el otro tendrá que jugar con defensa.
 Si el participante con el turno escoge medio campo, su contrario tendrá que jugar con mediocampo de igual manera.
 
 El participante cuya carta en la habilidad que le corresponda tenga una mayor puntuación, meterá el gol. En caso de tener un empate, se le acreditará un gol a ambos participantes. 
 Cada que alguien meta gol, el nivel de energía del participante, bajará de acuerdo al nivel de energía que posea el jugador que haya usado en su ronda. Al pasar a la siguiente ronda, a los dos participantes se les abonarán 2 puntos de energía. 
  
-La partida termina cuando un jugador mete 6 goles, o algún jugador se queda sin energía. El participante ganador será acreedor de 1000 monedas que podrá usar en el futuro para comprar sobres más fuertes. 
+La partida termina cuando un jugador mete 4 goles, o algún jugador se queda sin energía. El participante ganador será acreedor de 1000 monedas que podrá usar en el futuro para comprar sobres más fuertes. 
 
 Para ejemplificar las instrucciones, analizaremos el caso de Cristiano Ronaldo vs Alvaro Morata en la primera ronda, los dos participantes con nivel 10 de energía. 
 En este caso, el participante A tendría el turno, escogiendo a Cristiano Ronaldo con su ofensa(94 pts), mientras que el participante B tendría que escoger un jugador para combatir con su defensa, en este caso Alvaro Morata (49 pts). Cristiano metería gol y ganaría la ronda al ser su puntaje mayor que el de su contrincante, pero el jugador A terminaría la ronda con 2 de energía (10 de energía inicial -8 de energía usada en Cristiano=2), mientras que el jugador B tendría 4 de energía porque Morata solo costó 6 de energía. 
@@ -291,6 +291,10 @@ Menú de inicio:
 Pantalla de Selección de Formación y Jugadores:
 
 ![alt text](PlantillaJuego2.png)
+
+Pantalla Partida en Curso:
+
+![alt text](bocetoPantallaPartida.png)
 
 Batalla en juego:
 
