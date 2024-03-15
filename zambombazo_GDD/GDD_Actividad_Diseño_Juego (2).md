@@ -1,6 +1,6 @@
 # **Zambombazo**
 
-## _Game Design Document_
+## _Documento del Diseño del Juego_
 
 ---
 
@@ -12,44 +12,44 @@ Valeria Tapia González - A01028038
 Paul Araque Fernández - A01027626
 
 ##
-## _Index_
+## _Índice_
 
 ---
 
-1. [Index](#index)
-2. [Game Design](#game-design)
-    1. [Summary](#summary)
-    2. [Idea Pitch](#idea-pitch)
-    3. [Gameplay](#gameplay)
-    4. [Mindset](#mindset)
-3. [Technical](#technical)
-    1. [Screens](#screens)
-    2. [Controls](#controls)
-    3. [Mechanics](#mechanics)
-4. [Level Design](#level-design)
-    1. [Themes](#themes)
-    2. [Game Flow](#game-flow)
-5. [Development](#development)
-6. [Graphics](#graphics)
-    1. [Style Attributes](#style-attributes)
-    2. [Graphics Needed](#graphics-needed)
-    3. [Sketches](#sketches)
-    4. [References](#references)
-7. [Sounds/Music](#soundsmusic)
-    1. [Style Attributes](#style-attributes-1)
-    2. [Sounds Needed](#sounds-needed)
-    3. [Music Needed](#music-needed)
-8. [Schedule](#schedule)
+1. [Índice](#índice)
+2. [Diseño del Juego](#diseño-del-juego)
+    1. [Resumen](#resumen)
+    2. [Presentación de la Idea](#presentación-de-la-idea)
+    3. [Cómo se Juega](#cómo-se-juega)
+    4. [Mentalidad](#mentalidad)
+3. [Técnico](#técnico)
+    1. [Pantallas](#pantallas)
+    2. [Controles](#controles)
+    3. [Mecánicas](#mecánicas)
+4. [Diseño de Nivel](#diseño-de-nivel)
+    1. [Temas](#temas)
+    2. [Flujo del Juego](#flujo-del-juego)
+5. [Desarrollo](#desarrollo)
+6. [Gráficas](#gráficas)
+    1. [Atributos de Estilo](#atributos-de-estilo)
+    2. [Gráficas Necesarias](#gráficas-necesarias)
+    3. [Bocetos](#bocetos)
+    4. [Referencias](#referencias)
+7. [Sonidos/Música](#sonidosmúsica)
+    1. [Atributos de Estilo](#atributos-de-estilo-1)
+    2. [Sonidos Necesarios](#sonidos-necesarios)
+    3. [Música Necesaria](#música-necesaria)
+8. [Planeación](#planeación)
 
-## _Game Design_
+## _Diseño del Juego_
 
 ---
 
-### **Summary**
+### **Resumen**
 
 Te adentrarás en un juego estratégico de cartas basado en el deporte fútbol, poniendo en práctica diferentes estrategias para anotar gol y ganar a tu contrincante, de la mano de tus jugadores favoritos.
 
-### **Idea Pitch**
+### **Presentación de la Idea**
 
 En este juego de fútbol, cada jugador cuenta con 11 cartas previamente seleccionadas por él/ella. Cada carta tiene un valor de defensa, otro de mediocampo y otro de ataque. El primer turno siempre será aleatorio, lo que implica que un jugador elegirá su primera carta, junto a valor de defensa, ataque o mediocampo, y luego el segundo jugador, teniendo en cuenta el valor que eligió el contrincante, deberá elegir una de sus cartas para tratar de ganar el combate. Si el primer jugador eligió el valor de defensa, el segundo jugador deberá elegir el valor de ataque para tratar de anotar un gol, y si el primero eligió mediocampo, el segundo jugador deberá contestar con un valor de mediocampo. Adicionalmente, cada jugador empezará con 10 de energía y cada carta tendrá un coste de entre 1 a 8 de energía para utilizarla. Después de cada combate, se le sumará dos energías a cada jugador y podrán elegir las nuevas cartas a utilizar. Al cada jugador tener 11 cartas, el primero que anote 6 goles ganará la partida y solo existirá el empate en caso de que el marcador esté empatado y los valores totales de las últimas dos cartas es el mismo, aunque es un caso muy extraño de que ocurra. 
 Por cada partida, los jugadores recibirán una cantidad de monedas que va a variar dependiendo si ganaron, perdieron o empataron el partido. Con estas monedas, los jugadores podrán comprar sobres en una tienda para tratar de obtener mejores jugadores y así mejorar sus respectivos equipos. 
@@ -57,7 +57,7 @@ Por cada partida, los jugadores recibirán una cantidad de monedas que va a vari
 Extra: Al principio de cada partida, cada jugador podrá seleccionar 1 de 10 cartas aleatorias que podrán utilizar en cualquier turno. Un ejemplo de esta carta puede ser el doble de energía, la cual se podría utilizar a partir de la segunda ronda y le multiplicará la energía por dos al jugador. Otra carta puede ser “robo de carta”, la cual se activaría cuando el otro jugador use su carta aleatoria y su contrincante le robe la carta para su uso. 
 
 
-### **Gameplay**
+### **Cómo se Juega**
 
 El juego empieza al darle al participante 10 en nivel de energía y un sobre con 20 cartas aleatorias, este tiene que escoger solo 11 para la partida. Cada carta representa a un jugador profesional de fútbol que posee 3 habilidades: defensa, ataque y medio campo, y un nivel de energía del 1 al 8 (siendo 8 lo máximo). En el sobre inicial, 6 cartas serían de defensa, 6 medios, 6 delanteros y 2 porteros. 
 
@@ -82,19 +82,19 @@ Los participantes deberán buscar una buena táctica para usar su energía de ma
 Es importante destacar, que cuando se une un usuario al juego, la primera vez que juega le saldrá un sobre con jugadores que tengan una media de nivel de energía del 1 al 4, entre más partidas gane, podrá ir comprando sobres con una media de nivel de energía superior para tener un equipo más fuerte y de igual manera competir contra rivales más fuertes.
 
 
-### **Mindset**
+### **Mentalidad**
 
 Buscamos que el jugador cree su propia estrategia, pero siempre debe tener en cuenta que necesita marcar al menos 6 goles para ganar el partido. De esta manera, pueden desarrollar su estrategia para empezar el juego más tranquilo y tratando de utilizar sus cartas débiles contra las fuertes del contrincante, pero al final se tendría que apurar para utilizar sus mejores cartas, teniendo el resultado en su contra, para tratar de darle vuelta al marcador. De igual manera, queremos que se sientan un poco nerviosos, ya que si utilizó a su mejor carta, pero el contrincante le ganó de alguna manera, deberá pensar que jugará en el siguiente turno para tratar de ganar ese combate. Asimismo, los nervios les pueden llegar si es un partido importante y el jugador puede estar pensando si jugar más agresivo, calmado o seguir su propia estrategia que le ha funcionado. Finalmente, si el jugador ve que su estrategia no está funcionando, queremos que experimenten probando nuevas ideas y analizando cuál es el mejor momento para jugar cada una de sus cartas. 
 
 
-## _Technical_
+## _Técnico_
 
 ---
 
-### **Screens**
+### **Pantallas**
 
 1. Pantalla de Título:
-    1. Inicio: Notón para iniciar el juego.
+    1. Inicio: Botón para iniciar el juego.
     2. Opciones: Configuración del juego y sonidos. Algunos ejemplos son ajustes de audio, o un tutorial para ver cómo son los botones del juego.
     3. Créditos: Información sobre los créditos del juego.
 2. Progreso:
@@ -115,7 +115,7 @@ Buscamos que el jugador cree su propia estrategia, pero siempre debe tener en cu
 
 _(example)_
 
-### **Controls**
+### **Controles**
 
 Principalmente, el usuario interactuará con una interfaz gráfica que le servirá para observar su colección de cartas y poder elegir la formación y jugadores que disputarán su partido. De igual manera, dentro de la partida, deberán seleccionar a sus jugadores para el combate, al igual que la estadística a utilizar por medio de clics en la pantalla. Por esta razón, y debido a que la mecánica del juego es sencilla, no existirá una gran variedas de controles para que cada jugador personalice sus controles, sino que sólo podrán utilizar los predeterminados. 
 
@@ -126,9 +126,9 @@ Algunos eventos dentro del juego que podrán ocurrir son:
 
 Estos eventos se desencadenarán, gracias a la interfaz del juego, al presionar botones y cartas, las cuáles serán bastantes intuitivas para que los jugadores puedan aprender rápidamente. 
 
-### **Mechanics**
+### **Mecánicas**
 
-- Creación de formación: antes de cada partida, el jugador tendrá una pantalla con una formación predeterminada, pero sin ninguna carta. En esta, el usuario podrá elegir si desea cambiar de formación y, posteriormente, elegir que jugadores de su inventario desea utilizar en cada una de las posiciones.
+- Creación de formación: antes de cada partida, el jugador tendrá una pantalla con una formación predeterminada, pero sin ninguna carta. En esta, el usuario podrá elegir si desea cambiar de formación y, posteriormente, elegir que jugadores de su inventario desea utilizar en cada una de las posiciones. Es importante recalcar que si el usuario elije una formación con dos defensas centrales, por ejemplo, no podrá seleccionar a delanteros en esas posiciones, sino que tendrá que poner únicamente a los defensas centrales que tenga en su inventario. Lo mismo con el resto de las posiciones. 
 - Enfrentamiento de Cartas: esta es la mecánica principal del juego, la cuaql involucra enfrentamientos directos entre las cartas. Para ello, se necesitará un algoritmo de comparación de valores, en donde se enfrentaría la estadística de ataque de un jugador contra la estadística de defensa de la otra carta en combate y vicerversa. En caso de que se seleccione la estadística de mediocampo, esta se enfrentará contra la estadística de mediocampo del otro jugador. Para lograr esto, se necesitará una lógica de programación para controlar estas comparaciones de manera eficiente y determinar quién es el ganador de cada combate.
 - Gestión de Energía: debido a que cada jugador tendrá cierta energía por turno limitado y se le regenerará dos puntos en cada turno, esto puede influenciar en la estrategia de cada uno para ver qué jugador utilizar y cuando. Esto se realizará a través de variables para rastrear la energía disponible de cada juagdor, al igual que cálculos para reducir la cantidad de energía al utilizar una carta.
 - Sistema de Recompensa: después de cada partida, los jugadores recibirán una cantidad de monedas de pendiendo del resultado. Con estas monedas, pueden comprar sobres para mejorar sus inventarios. Para implementar esta mecánica, se necesitará gestionar una base de datos para saber cuántas monedas tiene cada jugador. También, se necesitará un sistema aleatorio de cartas que puedes obtener en cada sobre, utilizando un algoritmo de porcentajes dependiendo de que tan buena es la carta.
@@ -143,10 +143,10 @@ A continuación se observará un ejemplo de un juego:
 (El jugador 1 tiene un poco de ventaje porque el partido va empatado y tiene 2 más de energía que el contrario).
 El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de cada equipo o hasta que un jugador llegue a 4 goles. Si el jugador llega a 4 goles, puede decidir si seguir la partida para obtener un mejor resultado y mejores recompensas o si terminarla en ese momento. 
 
-## _Level Design_
+## _Diseño de Nivel_
 
 ---
-### **Themes**
+### **Temas**
 
 1. Estadio
     1. Ambiente
@@ -165,7 +165,7 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
 
 
 
-### **Game Flow**
+### **Flujo del Juego**
 
 1. EL jugador le da al botón para comenzar una partida.
 2. Aparece una formación predetermianda, pero sin ningún jugador.
@@ -181,7 +181,7 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
 12. Cuando se termina la partida, aparece una pantalla con las recompensas, el resultado final, el nivel de progreso y botón para avanzar.
 13. Aparece la pantalla de inicio.
 
-## _Development_
+## _Desarrollo_
 
 ---
 
@@ -238,11 +238,11 @@ El partido continúa de la misma forma, hasta que se acaben los 7 jugadores de c
 
 
 
-## _Graphics_
+## _Gráficas_
 
 ---
 
-### **Style Attributes**
+### **Atributos de Estilo**
 
 What kinds of colors will you be using? Do you have a limited palette to work with? A post-processed HSV map/image? Consistency is key for immersion.
 
@@ -250,7 +250,7 @@ What kind of graphic style are you going for? Cartoony? Pixel-y? Cute? How, spec
 
 Well-designed feedback, both good (e.g. leveling up) and bad (e.g. being hit), are great for teaching the player how to play through trial and error, instead of scripting a lengthy tutorial. What kind of visual feedback are you going to use to let the player know they&#39;re interacting with something? That they \*can\* interact with something?
 
-### **Graphics Needed**
+### **Gráficas Necesarias**
 
 1. Equipos / Cartas
     1. Real Madrid
@@ -280,7 +280,7 @@ Well-designed feedback, both good (e.g. leveling up) and bad (e.g. being hit), a
     4. Barra de energía
     5. Árbitro
 
-### **Sketches**
+### **Bocetos**
 
 Menú de inicio:
 
@@ -295,7 +295,7 @@ Batalla en juego:
 ![alt text](batallajuego.png)
 
 
-### **References**
+### **Referencias**
 
 Algunos de los videojuegos de cartas que se usaron como referencia e insipiración, fueron los siguientes:
 
@@ -312,13 +312,13 @@ Fantasy:
 ![alt text](Fifa.png)
 
 
-## _Sounds/Music_
+## _Sonidos/Música_
 
 ---
 
-### **Style Attributes**
+### **Atributos de Estilo**
 
-### **Sounds Needed**
+### **Sonidos Necesarios**
 
 1. Sonidos Menu
 clics suaves y satisfactorios cuando los jugadores navegan por los menús o seleccionan opciones
@@ -339,14 +339,14 @@ sonidos claros y distintos para alertar a los jugadores sobre nuevos mensajes, l
 
 
 
-### **Music Needed**
+### **Música Necesaria**
 1. canciones optimistas y energéticas:
 2. Himnos deportivos y cantos de estadio:
 
 
 
 
-## _Schedule_
+## _Planeación_
 
 ---
 
