@@ -113,7 +113,9 @@ Buscamos que el jugador cree su propia estrategia, pero siempre debe tener en cu
     2. Muestra las recompensas obtenidas por la partida.
     3. Botón para continuar a la pantalla de inicio.
 
-_(example)_
+Pantalla Partida en Curso:
+
+![alt text](bocetoPantallaPartida.png)
 
 ### **Controles**
 
@@ -286,7 +288,7 @@ Menú de inicio:
 
 ![alt text](InicioJuego.png)
 
-Plantilla o Deck:
+Pantalla de Selección de Formación y Jugadores:
 
 ![alt text](PlantillaJuego2.png)
 
